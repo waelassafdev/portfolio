@@ -50,6 +50,11 @@ const About = () => {
                 especially in the <span className="font-medium">history</span>{" "}
                 and <span className="font-medium">psychology</span> genre.
             </p>
+            <p className="mb-3">
+                I also write a developer blog at <a href="https://blog.waelassaf.dev" target={"_blank"}>Blog</a>.
+                And post videos at <a href="https://www.youtube.com/@waelnassaf">Youtube</a>.
+            </p>
+
         </motion.section>
     )
 }
