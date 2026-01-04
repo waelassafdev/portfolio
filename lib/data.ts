@@ -2,7 +2,7 @@ import React from "react"
 import { CgWorkAlt } from "react-icons/cg"
 import { FaReact } from "react-icons/fa"
 import { LuGraduationCap } from "react-icons/lu"
-import jomlaImg from "@/public/fijomla.png"
+import sentenceImg from "@/public/insentence.png"
 import toolsImg from "@/public/tools.png"
 import soonImg from "@/public/soon.jpg"
 
@@ -66,12 +66,12 @@ export const projectsData = [
         url: "https://toolsfornoobs.com",
     },
     {
-        title: "FiJomla",
+        title: "In Sentence",
         description:
-            "A web app that servers as a large collection of exemplary sentences of words to help students, new learners, and authors explore plethora of usages of a specific word.",
-        tags: ["React", "Next.js", "Prisma", "Tailwind", "MySQL"],
-        imageUrl: jomlaImg,
-        url: "https://fijomla.com",
+            "A web app that serves as a large collection of real exemplary sentences of words to help students, new learners, and authors explore plethora of usages of a specific word.",
+        tags: ["React", "Next.js", "Prisma", "Tailwind", "PostgreSQL"],
+        imageUrl: sentenceImg,
+        url: "https://insentence.com",
     },
     {
         title: "Almas",
